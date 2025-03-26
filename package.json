@@ -1,0 +1,13 @@
+{
+  "name": "api-transportadora",
+  "version": "1.0.0",
+  "description": "API para consulta de vendas a partir do Google Sheets",
+  "main": "index2.js",
+  "scripts": {
+    "start": "node index2.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^118.0.0"
+  }
+}
